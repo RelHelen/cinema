@@ -1,0 +1,21 @@
+ [{
+     "id": "1",
+     "title": "CASIO MQ-24-7BUL",
+     "src": "img/s-1.png",
+     "price": "235"
+ }, {
+     "id": "2",
+     "title": "SAUVAGE SA-SV88682RG",
+     "src": "img/s-2.png",
+     "price": "356"
+ }, {
+     "id": "3",
+     "title": "CITIZEN JP1010-00E",
+     "src": "img/s-3.png",
+     "price": "574"
+ }, {
+     "id": "4",
+     "title": "ROYAL LONDON 41040-01",
+     "src": "img/s-4.png",
+     "price": "456"
+ }]

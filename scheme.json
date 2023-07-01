@@ -1,0 +1,26 @@
+[{
+    "scheme": ["exit", 11, "exit", 14, "exit"],
+    "name": "hall1",
+    "film": "tt0499549",
+    "id": "1"
+}, {
+    "scheme": ["exit", 11, "exit", 1, "exit", 17, "exit"],
+    "name": "hall2",
+    "film": "tt0416449",
+    "id": "2"
+}, {
+    "scheme": ["exit", 10, "exit", 14, "exit", 13, "exit"],
+    "name": "hall3",
+    "film": "tt0993846",
+    "id": "3"
+}, {
+    "scheme": ["exit", 13, "exit", 1, "exit", 17, "exit"],
+    "name": "hall4",
+    "film": "tt0816692",
+    "id": "4"
+}, {
+    "scheme": ["exit", 20, "exit"],
+    "name": "hall5",
+    "film": "tt0848228",
+    "id": "5"
+}]
